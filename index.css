@@ -73,7 +73,7 @@
 }
 .textintroduce{
     position: absolute;
-    margin-left: 5%;
+    margin-left: 0%;
 
 }
 .textintroduce img{
@@ -4263,7 +4263,7 @@
 
 
 /*HDTV*/
-@media only screen and (min-width:1800px) and (max-width:1920px){
+@media only screen and (min-width:1800px){
     *{
         margin: 0px;
         padding: 0px;
